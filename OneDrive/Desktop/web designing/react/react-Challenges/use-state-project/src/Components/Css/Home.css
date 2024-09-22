@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  text-align: center;
+}
+div.home {
+  margin: 0 auto; 
+}
+span {
+  font-size: 32px;
+  font-weight: bold;
+}
+div.tasks {
+  margin: 10px 0;
+}
+button.show {
+  padding: 6px 10px;
+  border-radius: 5px;
+  border: 1px solid ;
+}
+input {
+  padding: 8px 14px;
+  font-size: 16px;
+  font-weight: 600;
+  width: 300px;
+  border-radius: 2px;
+  border: 1px solid #000;
+}
+button.submit {
+  margin-left: 3px;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 8px 8px;
+  border-radius: 2px;
+  border: 1px solid #000;
+  color: #222222;
+}
+.form{
+  display: flex;
+  margin-bottom: 16px;
+  justify-content: center;
+}
+.dataShow {
+  width: 300px;
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  margin-left: 118px;
+  margin-top: 20px;
+  text-align: center;
+}
+.dataShow li {
+padding-left: 0;
+width: 30%;
+margin: 0;
+}

@@ -1,0 +1,14 @@
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 500px;
+  padding-left: 35px;
+  margin: 0 ;
+}
+li {
+  text-align: left;
+  width: auto;
+  flex-grow: 0;
+  margin: 20px;
+  margin-left: 5px;
+}
